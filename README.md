@@ -11,4 +11,4 @@ hacker news라는 컴퓨터 관련 기사 싸이트에서 Popular와 New를 기�
 
 ![이미지](https://user-images.githubusercontent.com/60593969/103399961-bf2c8980-4b86-11eb-912d-95d3ed46a51e.jpg)
 
-직접 리눅스와 아마존을 활용한 배포를 할수도 있었지만, ip설정을 쉽게 하기위해 repl.it 상에서 Flask를 사용하여 웹싸이트를 구축
+ip설정을 쉽게 하기위해 repl.it 상에서 Flask를 사용하여 웹싸이트를 구축
